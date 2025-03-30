@@ -63,3 +63,12 @@ footer {
     margin-top: 20px;
     font-size: 14px;
 }
+.top-left {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+
+.top-left img {
+    border-radius: 50%; /* Optional: makes the image round */
+}
